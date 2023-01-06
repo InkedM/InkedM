@@ -2,9 +2,9 @@
 
 <div align="left">
   <h1> Hi, I'm Mélanie !</h1>
-</div>
 
-<img align="right" width="450px" src="./jiji.png" />
+
+<img align="right" width="400px" src="./jiji.png" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/melanie-rossello">
@@ -19,7 +19,9 @@
   </p>
   <a>
     <img src="https://img.shields.io/github/followers/inkedm?style=social" />
-  </a>
+  </a><br>
+  
+  ---
 
 - 🌱 Interested in web development
 - 📗 Currently learning with O'Clock
@@ -33,6 +35,6 @@
 
 ### 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=inkedm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=inkedm&theme=dark&hide_border=true)
-
+  
 ---
+  </div>
