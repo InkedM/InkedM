@@ -1,8 +1,10 @@
+---
+
 <div align="left">
   <h1> Hi, I'm Mélanie !</h1>
 </div>
 
-<img align="right" width="330px" src="./image.png" />
+<img align="right" width="450px" src="./jiji.png" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/melanie-rossello">
@@ -18,13 +20,19 @@
   <a>
     <img src="https://img.shields.io/github/followers/inkedm?style=social" />
   </a>
-  
----
 
 - 🌱 Interested in web development
 - 📗 Currently learning with O'Clock
 
+---
+
 ### ⚙️ 🛠️ Languages and tools :
 ![HTML5](https://img.shields.io/badge/html5-346c04.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-346c04.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-346c04.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-346c04.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
+---
+
+### 📊 GitHub Stats :
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=inkedm&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=inkedm&theme=dark&hide_border=true)
 
 ---
