@@ -1,16 +1,30 @@
-### Hi there 👋
+<div align="left">
+  <h1> Hi, I'm Mélanie !</h1>
+</div>
 
-<!--
-**InkedM/InkedM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="330px" src="./image.png" />
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.linkedin.com/in/melanie-rossello">
+    <img src="https://img.shields.io/badge/-Linkedin-6e991a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melanie-rossello" />
+  </a>
+   <a href="https://www.instagram.com/einalemrds">
+    <img src="https://img.shields.io/badge/-Instagram-6e991a?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/einalemrds" />
+  </a>
+   <a href="https://www.twitter.com/einalemrds">
+    <img src="https://img.shields.io/badge/-Twitter-6e991a?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/einalemrds" />
+  </a>
+  </p>
+  <a>
+    <img src="https://img.shields.io/github/followers/inkedm?style=social" />
+  </a>
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Interested in web development
+- 📗 Currently learning with O'Clock
+
+### ⚙️ 🛠️ Languages and tools :
+![HTML5](https://img.shields.io/badge/html5-346c04.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-346c04.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-346c04.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-346c04.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
+---
